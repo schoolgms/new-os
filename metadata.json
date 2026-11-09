@@ -1,0 +1,6 @@
+{
+  "name": "NEW OS - Browser Native Web Operating System",
+  "description": "A complete, modern browser-native operating system and kiosk desktop environment with glassmorphic UI, terminal, virtual filesystem, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
